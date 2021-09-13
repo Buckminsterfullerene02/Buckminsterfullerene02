@@ -34,5 +34,5 @@ This is mainly used for Deep Rock Galactic modding at this current point.
 ![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckminsterfullerene02&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckminsterfullerene02&langs_count=10&layout=compact&title_color=ffffff&hide=CMake,Makefile&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
 
