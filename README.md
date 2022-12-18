@@ -1,36 +1,14 @@
 Hello world! This is an alternate account for all internet-related repositories that I don't wish to mix with my main account. 
-This is mainly used for Deep Rock Galactic modding at this current point.
 
-Creator of DRG Modding, cyubeVR Modding, Foxhole Modding & Stray Modding Github organisations.
+Creator of DRG Modding, cyubeVR Modding & Astro Colony Modding organisations.
 
-## Languages and Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=orange)
-![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali-linux&logoColor=white&color=orange)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=orange)
-
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2aa5dc)
-
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/Pentesting-HackTheBox-informational?style=flat&logo=hack-the-box&logoColor=white&color=green)
-![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
+My current projects:
+- Working with the developers of Astro Colony to bring a full asset modkit, modding API and in-game mod support
+- Working with [LongerWarrior](https://github.com/LongerWarrior) to create the [UEAssetToolkitGenerator](https://github.com/LongerWarrior/UEAssetToolkitGenerator) tool, which serializes cooked UE assets into a format that can be used to generate fully reconstructed assets in-editor
+- Creating the most fully-equiped user-generated modkit possible, for a number of games, namely Deep Rock Galactic & cyubeVR
+- Contributing to open source UE modding tools such as [CUE4Parse](https://github.com/FabianFG/CUE4Parse)/[FModel](https://github.com/4sval/FModel), [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS), [UEAssetToolkit](https://github.com/Archengius/UEAssetToolkit)
+- A comprehensive document outlining high level detail of the entire UE4/5 modding scene, aimed towards game developers to be more informed on what is possible
+- Building a network of connections between UE tool developers to make collaboration much easier 
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckminsterfullerene02&langs_count=10&layout=compact&title_color=ffffff&hide=C&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
-
