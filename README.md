@@ -11,4 +11,6 @@ My current projects:
 - Building a network of connections between UE tool developers to make collaboration much easier 
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckminsterfullerene02&langs_count=10&layout=compact&title_color=ffffff&hide=C&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+![Top Langs](https://github-readme-stats-delta-eight-48.vercel.app/api/top-langs/?username=Buckminsterfullerene02&langs_count=10&layout=compact&title_color=ffffff&hide=C&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+
+![Stats](https://github-readme-stats-delta-eight-48.vercel.app/api?username=Buckminsterfullerene02&show_icons=true&theme=transparent)
