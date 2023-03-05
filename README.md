@@ -5,7 +5,7 @@ My current projects:
 - Working with [LongerWarrior](https://github.com/LongerWarrior) to create the [UEAssetToolkitGenerator](https://github.com/LongerWarrior/UEAssetToolkitGenerator) tool, which serializes cooked UE assets into a format that can be used to generate fully reconstructed assets in-editor
 - Creating the most fully-equiped user-generated modkit possible, for a number of games, namely [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) & [cyubeVR](https://store.steampowered.com/app/619500/cyubeVR/)
 - Contributing to open source UE modding tools such as [CUE4Parse](https://github.com/FabianFG/CUE4Parse)/[FModel](https://github.com/4sval/FModel), [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS), [UEAssetToolkit](https://github.com/Archengius/UEAssetToolkit)
-- A comprehensive document outlining high level detail of the entire UE4/5 modding scene, aimed towards game developers to be more informed on what is possible
+- Writing a [comprehensive document](https://unreal-modding-library.github.io/dev-guide/) outlining high level detail of the entire UE4/5 modding scene, aimed towards game developers to be more informed on what is possible
 - Building a network of connections between UE tool developers to make collaboration much easier 
 
 My past projects:
