@@ -13,4 +13,4 @@ My past projects:
 - Worked with [Astro Colony](https://store.steampowered.com/app/1614550/Astro_Colony/) developers to bring full mod support, including a play in editor modkit
 - Created comprehensive modding guides for Deep Rock Galactic & cyubeVR 
 
-![](https://github-readme-stats.vercel.app/api?username=Buckminsterfullerene02&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=Buckminsterfullerene02&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117&count_private=true&include_all_commits=true&hide_border=true&hide_title=false)
