@@ -2,9 +2,9 @@ Hello world! I do stuff n things
 
 My current projects:
 - Taking a break from modding, but still doing little things here and there :D
-- Writing a [comprehensive document](https://buckminsterfullerene02.github.io/dev-guide/) outlining high level detail of the entire UE4/5 modding scene, aimed towards game developers to be more informed on what is possible
 
 My past projects:
+- Writing a [comprehensive document](https://buckminsterfullerene02.github.io/dev-guide/) outlining high level detail of the entire UE4/5 modding scene, aimed towards game developers to be more informed on what is possible
 - Worked with the [cyubeVR](https://store.steampowered.com/app/619500/cyubeVR/) developer to bring native UE mod support
 - Consulted with the developer of [Astro Colony](https://store.steampowered.com/app/1614550/Astro_Colony/) to bring native UE mod support, including a play-in-editor modkit
 - Consulted with the lead developer of [Railgrade](https://store.epicgames.com/en-US/p/railgrade) on in-game mod support and modding API 
